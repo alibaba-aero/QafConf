@@ -17,6 +17,9 @@
 // |   2022   |     >=8     |  I * 0.09   |    (I - VAT) * 0.01     |  (I - CTR) * 0.27  |
 
 // Solution One
+
+using Qaf.Solutions.DesignPattern;
+
 var justMakeItWorkSolution = new JustMakeItWorkSolution();
 justMakeItWorkSolution.RunSample();
 
