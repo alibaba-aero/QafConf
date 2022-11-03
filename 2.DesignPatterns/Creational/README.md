@@ -1,12 +1,12 @@
  ## Factory Method
 Provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
 
-- Example here
+- [Example here](https://github.com/alibaba-aero/QafConf/tree/main/2.DesignPatterns/Creational/Factory/AgileDeveloper-Abstract-Factory)
 
  ## Abstract Factory
 Lets you produce families of related objects without specifying their concrete classes.
 
-- Example here
+- [Example here](https://github.com/alibaba-aero/QafConf/tree/main/2.DesignPatterns/Creational/Factory/AgileDeveloper-Abstract-Factory)
 
  ## Builder
 Lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
