@@ -2,7 +2,9 @@
 // Ask user company name,income and the year of calculation.
 // calculate the tax and balanace of the company.
 // Assumptions :
+
 // |   YEAR   |  Income(M$) |   VAT(%)    |  Corporate Tax Rate(%)  |    Income Tax(%)   |
+// |----------|-------------|-------------|-------------------------|--------------------|
 // |  <2021   |      <3     |  I * 0.00   |    (I - VAT) * 0.02     |  (I - CTR) * 0.00  |
 // |  <2021   |   3>= & <5  |  I * 0.05   |    (I - VAT) * 0.05     |  (I - CTR) * 0.10  |
 // |  <2021   |   5>= & <8  |  I * 0.05   |    (I - VAT) * 0.05     |  (I - CTR) * 0.20  |
